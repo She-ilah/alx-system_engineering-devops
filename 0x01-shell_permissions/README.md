@@ -8,3 +8,4 @@ File 7: script that adds permissions to everybody
 File 8: script adds/removes permissions
 File 9: script changes the mode of a file
 File 10: script sets file mode to the same as another file
+File 11: script adds permission to subdirectories
