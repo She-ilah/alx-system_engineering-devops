@@ -6,3 +6,4 @@ File 5: script adds execute permission to owner
 File 6: script adds multiple permissions
 File 7: script that adds permissions to everybody
 File 8: script adds/removes permissions
+File 9: script changes the mode of a file
