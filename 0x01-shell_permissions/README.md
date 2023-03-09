@@ -14,3 +14,4 @@ File 13: script changes the ownwer and group of a file
 File 14: script changes the owner and group of multiple files
 File 15: script changes the owner and group of a symbolic link
 File 16: script changes owner of a file under a condition
+File 17: script plays an episode in the terminal
