@@ -10,4 +10,6 @@ File 9: script changes the mode of a file
 File 10: script sets file mode to the same as another file
 File 11: script adds permission to subdirectories
 File 12: script makes directory with permissions
-File 13: script changes the owner and group
+File 13: script changes the ownwer and group of a file
+File 14: script changes the owner and group of multiple files
+File 15: script changes the owner and group of a symbolic link
