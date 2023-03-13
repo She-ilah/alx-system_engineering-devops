@@ -8,3 +8,4 @@ Task 0: Script that prints " Hello World "
  Task 7: script creates a file with content 
  Task 8: script that outputs command into a file 
  Task 9: script duplicates the last line of file 
+ Task 10: script deletes files 
