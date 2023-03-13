@@ -24,3 +24,4 @@ Task 0: Script that prints " Hello World "
  Task 23: script finds empty files and directories 
  Task 24: script that lists all files with .git extension 
  script that decodes arostics 
+ script parses web servers logs in TSV format as input 
