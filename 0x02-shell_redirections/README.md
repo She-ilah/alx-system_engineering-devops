@@ -13,3 +13,4 @@ Task 0: Script that prints " Hello World "
  Task 12: script displays 10 newest files in working directory 
  Task 13: script lists word that only appear once 
  Task 14: script displays files containing the same pattern 
+ Task 15: script displays number of lines containing a pattern 
