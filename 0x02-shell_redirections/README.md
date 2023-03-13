@@ -22,3 +22,4 @@ Task 0: Script that prints " Hello World "
  Task 21: script reverses its input 
  Task 22: script displays all users and home directories 
  Task 23: script finds empty files and directories 
+ Task 24: script that lists all files with .git extension 
