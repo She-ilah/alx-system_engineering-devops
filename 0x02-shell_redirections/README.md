@@ -15,3 +15,4 @@ Task 0: Script that prints " Hello World "
  Task 14: script displays files containing the same pattern 
  Task 15: script displays number of lines containing a pattern 
  Task 16: script displays lines containing a pattern and 3 more lines 
+ Task 17: script displays lines that do not contain a certain pattern 
