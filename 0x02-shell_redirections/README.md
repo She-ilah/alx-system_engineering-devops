@@ -19,3 +19,4 @@ Task 0: Script that prints " Hello World "
  Task 18: script displays all lines in file starting with a letter 
  Task 19: script replaces certain characters with others 
  Task 20: script that removes certain letters from input 
+ Task 21: script reverses its input 
