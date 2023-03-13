@@ -5,3 +5,4 @@ Task 0: Script that prints " Hello World "
  Task 4: script displays last 10 lines of file 
  Task 5 : script displays first 10 lines of file 
  Task 6: script displays third line of file 
+ Task 7: script creates a file with content 
