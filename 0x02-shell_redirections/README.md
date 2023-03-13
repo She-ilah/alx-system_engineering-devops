@@ -10,3 +10,4 @@ Task 0: Script that prints " Hello World "
  Task 9: script duplicates the last line of file 
  Task 10: script deletes files 
  Task 11: script that counts directories and sub-directories 
+ Task 12: script displays 10 newest files in working directory 
