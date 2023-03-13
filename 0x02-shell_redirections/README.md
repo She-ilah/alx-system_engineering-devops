@@ -7,3 +7,4 @@ Task 0: Script that prints " Hello World "
  Task 6: script displays third line of file 
  Task 7: script creates a file with content 
  Task 8: script that outputs command into a file 
+ Task 9: script duplicates the last line of file 
