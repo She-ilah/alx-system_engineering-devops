@@ -8,3 +8,4 @@ Task 6 : script creates a new local variable
 Task 7 : script creates a new global variable
 Task 8 : script prints result of addition with a stored value
 Task 9 : script prints the result of division of variables"
+Task 10 : script prints the exponent of variables
