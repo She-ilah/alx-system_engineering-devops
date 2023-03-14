@@ -3,3 +3,4 @@ Task 1 : script prints current user
 Task 2 : script makes changes to PATH variable
 Task 3 : script counts the number of directories in PATH
 Task 4 : script lists environment variables
+Task 5 : script lists local and environment variables and functions
