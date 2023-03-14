@@ -11,3 +11,4 @@ Task 9 : script prints the result of division of variables"
 Task 10 : script prints the exponent of variables
 Task 11 : script converts variable from base 2 to base 10
 Task 12 : script prints all possible combinations of two letters
+Task 13 : script prints number with two decimal places
