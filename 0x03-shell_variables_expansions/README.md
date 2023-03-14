@@ -5,3 +5,4 @@ Task 3 : script counts the number of directories in PATH
 Task 4 : script lists environment variables
 Task 5 : script lists local and environment variables and functions
 Task 6 : script creates a new local variable
+Task 7 : script creates a new global variable
